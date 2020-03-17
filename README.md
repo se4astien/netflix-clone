@@ -18,8 +18,8 @@ https://netflix-clone-website.netlify.com/
 ![](https://github.com/se4astien/netflix-clone/blob/master/screenshots/netflix-clone-02.png)
 ![](https://github.com/se4astien/netflix-clone/blob/master/screenshots/netflix-clone-03.png)
 
-<div style="display:flex; justify-content:center">
+
 <img src="https://github.com/se4astien/netflix-clone/blob/master/screenshots/netflix-clone-01.png" width="32%">
 <img src="https://github.com/se4astien/netflix-clone/blob/master/screenshots/netflix-clone-02.png" width="32%">
 <img src="https://github.com/se4astien/netflix-clone/blob/master/screenshots/netflix-clone-03.png" width="32%">
-</div>
+
